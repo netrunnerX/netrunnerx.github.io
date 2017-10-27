@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
     "site": "https://netrunnerx.github.io",
     "hubpress": "https://netrunnerx.github.io",
-    "theme": "//netrunnerx.github.io/themes/casper",
+    "theme": "//netrunnerx.github.io/themes/uno",
     "images": "https://netrunnerx.github.io/images"
   },
   "initialisationConfigComponent": {
