@@ -1,7 +1,7 @@
-= CyberExile
+= Intro
 :hp-image: /covers/cover.png
 :published_at: 2017-10-27
-:hp-tags: CyberExile, Blog, programacion,
-:hp-alt-title: CyberExile
+:hp-tags: CyberExilium, Blog, programacion,
+:hp-alt-title: Intro
 
 Hola
