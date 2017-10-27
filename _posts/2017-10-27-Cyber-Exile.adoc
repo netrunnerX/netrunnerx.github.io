@@ -1,6 +1,6 @@
 = CyberExile
 :hp-image: /covers/cover.png
-:published_at: 2019-01-31
+:published_at: 2017-10-27
 :hp-tags: CyberExile, Blog, programacion,
 :hp-alt-title: CyberExile
 
